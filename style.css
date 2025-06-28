@@ -1,0 +1,19 @@
+.resize-image {
+
+    width: 150px;
+    object-fit: cover;
+}
+body {
+    background-image: url(./assests/images/one_piece_simple.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#skills, #textstacks, #footer {
+    background-color:  #ffffff;
+    color: #000;
+}
+
+h1, h2, h3, p {
+    color: #ffffff;
+}
